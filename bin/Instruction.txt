@@ -1,0 +1,5 @@
+How to play:
+jump - W  left - A
+right - S pause - SPACEKEY
+Get out of the cave to clear 
+the game. 
